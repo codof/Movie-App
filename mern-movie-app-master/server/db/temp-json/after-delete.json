@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "5cc967828ff718592b5465ce",
+    "id": 284053,
+    "title": "Thor: Ragnarok",
+    "release_date": "2017-10-25",
+    "vote_average": 7.5,
+    "__v": 0
+  },
+  {
+    "_id": "5cc967828ff718592b5465d1",
+    "id": 99861,
+    "title": "Avengers: Age of Ultron",
+    "release_date": "2015-04-22",
+    "vote_average": 7.3,
+    "__v": 0
+  },
+  {
+    "_id": "5cc967828ff718592b5465d3",
+    "id": 299537,
+    "title": "Captain Marvel",
+    "release_date": "2019-03-06",
+    "vote_average": 7.1,
+    "__v": 0
+  },
+  {
+    "_id": "5cc967828ff718592b5465d6",
+    "id": 532671,
+    "title": "The Prodigy",
+    "release_date": "2019-02-06",
+    "vote_average": 6,
+    "__v": 0
+  },
+  {
+    "_id": "5cc967828ff718592b5465d8",
+    "id": 487297,
+    "title": "What Men Want",
+    "release_date": "2019-02-08",
+    "vote_average": 5.7,
+    "__v": 0
+  },
+  {
+    "_id": "5cc967828ff718592b5465d9",
+    "id": 576393,
+    "title": "Fall in Love at First Kiss",
+    "release_date": "2019-02-14",
+    "vote_average": 5.7,
+    "__v": 0
+  },
+  {
+    "_id": "5cc967828ff718592b5465da",
+    "id": 438650,
+    "title": "Cold Pursuit",
+    "release_date": "2019-02-07",
+    "vote_average": 5.3,
+    "__v": 0
+  },
+  {
+    "_id": "5cc967828ff718592b5465db",
+    "id": 456740,
+    "title": "Hellboy",
+    "release_date": "2019-04-10",
+    "vote_average": 5.2,
+    "__v": 0
+  },
+  {
+    "_id": "5cc967828ff718592b5465dc",
+    "id": 543103,
+    "title": "Kamen Rider Heisei Generations FOREVER",
+    "release_date": "2018-12-22",
+    "vote_average": 4.9,
+    "__v": 0
+  }
+]
